@@ -1,6 +1,6 @@
 #Project Overview
 
-# Cryptocurrency Price Prediction Using LSTM Models
+# Cryptocurrency Price Prediction Using Deep Learning
 
 This project implements Long Short-Term Memory (LSTM) neural networks to predict the closing prices of three cryptocurrencies: Bitcoin (BTC), Solana (SOL), and XRP. The models are built using Python and the TensorFlow/Keras library, leveraging historical data to forecast future prices.
 
