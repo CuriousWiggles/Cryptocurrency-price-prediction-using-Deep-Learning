@@ -8,16 +8,16 @@ This project implements Long Short-Term Memory (LSTM) neural networks to predict
 ---
 
 # Files in the Repository:
-1. `new_btc_codes.ipynb`:
-   - Contains the LSTM model for predicting the closing prices of Bitcoin (BTC).
+1. `btc_codes.ipynb`:
+   - Contains the LSTM model for predicting the closing price of Bitcoin (BTC).
    - Includes data preprocessing, model training, and evaluation steps.
 
 2. `sol_codes.ipynb`:
-   - Implements an LSTM model for forecasting the closing prices of Solana (SOL).
+   - Implements an LSTM model for forecasting the closing price of Solana (SOL).
    - Follows a similar approach to the Bitcoin model.
 
 3. `xrp_codes.ipynb`:
-   - Develops an LSTM model to predict XRP closing prices.
+   - Develops an LSTM model to predict XRP closing price.
    - The process involves data cleaning, feature scaling, and model evaluation.
 
 ---
