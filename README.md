@@ -37,5 +37,3 @@ This project implements Long Short-Term Memory (LSTM) neural networks to predict
 
 # How to Use
 
-1. Clone this repository:
-   bash git clone https://github.com/yourusername/cryptocurrency-price-prediction.git
